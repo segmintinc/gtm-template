@@ -1,2 +1,5 @@
 homepage: "https://segmint.com"
 documentation: ""
+versions:
+  - sha: f090a647c25244780024e78dbd37085c1190277e
+    changeNotes: Initial version
